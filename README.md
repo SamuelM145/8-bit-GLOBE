@@ -1,4 +1,4 @@
-# Folder structure
+# Folder Links
 
 Kaplay Documentation https://kaplayjs.com/reference/
 
