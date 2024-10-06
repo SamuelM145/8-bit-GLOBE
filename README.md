@@ -1,5 +1,7 @@
 # Folder structure
 
+Kaplay Documentation https://kaplayjs.com/reference/
+
 - `src` - source code for your kaplay project
 - `www` - distribution folder, contains your index.html, built js bundle and static assets
 
