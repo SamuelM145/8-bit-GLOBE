@@ -1,3 +1,8 @@
+# Descripition
+
+Game code for Space Apps hackathon held in Brookhaven, NY.
+This uses the kaplay.js api to game.
+
 # Folder Links
 
 Kaplay Documentation https://kaplayjs.com/reference/
